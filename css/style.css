@@ -1,5 +1,13 @@
 body {
 	margin: 0;
 	padding: 0;
-	background-color: #15eb12;
+	box-sizing: border-box;
+	color: #2e2e2e;
+}
+.box {
+	border: #ee20ee;
+	height: 400px;
+	width: 400px;
+	background-color: #fdffb5;
+	padding: 20px;
 }
